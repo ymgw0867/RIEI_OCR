@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIEI_OCR", "RIEI_OCR\RIEI_OCR.csproj", "{C10AF5CA-7B50-4522-8B26-AF6A4CCEBD7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIEI_SCAN", "RIEI_SCAN\RIEI_SCAN.csproj", "{976C6924-6ECB-4FB4-8CAF-D85F8BDA4449}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RIEI_OCRSetup", "RIEI_OCRSetup\RIEI_OCRSetup.vdproj", "{A1510EEE-34F8-421D-B97D-EA1770329281}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RIEI_SCANSetup1", "RIEI_SCANSetup1\RIEI_SCANSetup1.vdproj", "{8D465060-A85E-49F8-8543-4D485E4ACAF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10AF5CA-7B50-4522-8B26-AF6A4CCEBD7C}.Debug|x86.ActiveCfg = Debug|x86
+		{C10AF5CA-7B50-4522-8B26-AF6A4CCEBD7C}.Debug|x86.Build.0 = Debug|x86
+		{C10AF5CA-7B50-4522-8B26-AF6A4CCEBD7C}.Release|x86.ActiveCfg = Release|x86
+		{C10AF5CA-7B50-4522-8B26-AF6A4CCEBD7C}.Release|x86.Build.0 = Release|x86
+		{976C6924-6ECB-4FB4-8CAF-D85F8BDA4449}.Debug|x86.ActiveCfg = Debug|x86
+		{976C6924-6ECB-4FB4-8CAF-D85F8BDA4449}.Debug|x86.Build.0 = Debug|x86
+		{976C6924-6ECB-4FB4-8CAF-D85F8BDA4449}.Release|x86.ActiveCfg = Release|x86
+		{976C6924-6ECB-4FB4-8CAF-D85F8BDA4449}.Release|x86.Build.0 = Release|x86
+		{A1510EEE-34F8-421D-B97D-EA1770329281}.Debug|x86.ActiveCfg = Debug
+		{A1510EEE-34F8-421D-B97D-EA1770329281}.Release|x86.ActiveCfg = Release
+		{8D465060-A85E-49F8-8543-4D485E4ACAF4}.Debug|x86.ActiveCfg = Debug
+		{8D465060-A85E-49F8-8543-4D485E4ACAF4}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
